@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    position: relative;
+    width: 100%;
+    justify-content: center;
+}
+
+.mail {
+    letter-spacing: 0.15rem;
+    text-decoration: none;
+    color: var(--colorText);
+    transition: color .3s ease;
+    &:hover {
+        color: var(--colorPrimary);
+        cursor: pointer;
+    }
+}
