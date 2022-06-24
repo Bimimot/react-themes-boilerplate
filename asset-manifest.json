@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Bimimot/react-themes-boilerplate/static/css/main.e8a290cd.css",
-    "main.js": "/Bimimot/react-themes-boilerplate/static/js/main.0e532c81.js",
-    "index.html": "/Bimimot/react-themes-boilerplate/index.html",
-    "main.e8a290cd.css.map": "/Bimimot/react-themes-boilerplate/static/css/main.e8a290cd.css.map",
-    "main.0e532c81.js.map": "/Bimimot/react-themes-boilerplate/static/js/main.0e532c81.js.map"
+    "main.css": "/static/css/main.e8a290cd.css",
+    "main.js": "/static/js/main.0e532c81.js",
+    "index.html": "/index.html",
+    "main.e8a290cd.css.map": "/static/css/main.e8a290cd.css.map",
+    "main.0e532c81.js.map": "/static/js/main.0e532c81.js.map"
   },
   "entrypoints": [
     "static/css/main.e8a290cd.css",
