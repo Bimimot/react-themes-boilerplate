@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bimimot/react-themes-boilerplate/static/css/main.e8a290cd.css",
+    "main.js": "/Bimimot/react-themes-boilerplate/static/js/main.0e532c81.js",
+    "index.html": "/Bimimot/react-themes-boilerplate/index.html",
+    "main.e8a290cd.css.map": "/Bimimot/react-themes-boilerplate/static/css/main.e8a290cd.css.map",
+    "main.0e532c81.js.map": "/Bimimot/react-themes-boilerplate/static/js/main.0e532c81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8a290cd.css",
+    "static/js/main.0e532c81.js"
+  ]
+}
